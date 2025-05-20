@@ -3,11 +3,8 @@
 Aplicación Flutter que monitorea el nivel y estado de la batería en segundo plano, mostrando notificaciones cuando la batería está baja. Implementada siguiendo la arquitectura **MVVM** y usando **Provider** para manejo de estado.
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/sabbinat/battery_monitor/blob/d4ef43b93baaad9f5894beb04e09715d564d0995/img.png" width="150" style="margin-right: 10px;">
+  <img src="https://github.com/sabbinat/battery_monitor/blob/d4ef43b93baaad9f5894beb04e09715d564d0995/img.png" width="110" height='200' style="margin-right: 10px;">
 </div>
-
-#### 👩‍💻 Autora  
-**Natalie Fernández**
 
 ---
 
