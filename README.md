@@ -9,7 +9,6 @@ Aplicación Flutter que monitorea el nivel y estado de la batería en segundo pl
 #### 👩‍💻 Autora  
 **Natalie Fernández**
 
-
 ---
 
 ## ✨ Características de la aplicación
@@ -32,3 +31,18 @@ Aplicación Flutter que monitorea el nivel y estado de la batería en segundo pl
 - [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) – notificaciones locales
 - [url_launcher](https://pub.dev/packages/url_launcher) – abrir enlaces externos
 
+## ¿Cómo correr la aplicación?
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/sabbinat/battery_monitor.git
+cd broadcast
+```
+2. Instalar dependencias:
+```bash
+flutter pub get
+```
+3. Ejecutar la dependencia:
+```bash
+flutter run
+```
